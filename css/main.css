@@ -171,7 +171,7 @@ margin-right: 50px;
     color: #EEE;
     text-align: center;
 
-    font-size: 50px;
+    font-size: 30px;
     padding: 20px;
 
     z-index: 100;
@@ -215,7 +215,7 @@ margin-right: 50px;
 /*
     ... and we will show it when the first step (with id 'bored') is active.
 */
-.impress-on-oudaya_2  .hint , .impress-on-hassan_3  .hint  , .impress-on-bank_maghrib .hint {
+.impress-on-oudaya_3  .hint , .impress-on-hassan_3  .hint  , .impress-on-bank_maghrib .hint {
     /*
         We remove the transparency and position the hint in its default fixed
         position.
@@ -247,7 +247,7 @@ margin-right: 50px;
 {
   display: block;
 }
-.impress-on-oudaya_2  .hint p.oudaya
+.impress-on-oudaya_3  .hint p.oudaya
 {
   display: block;
 }
