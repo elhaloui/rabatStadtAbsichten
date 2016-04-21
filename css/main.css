@@ -29,7 +29,7 @@
 
 body::after {
   content: "";
-  background-image: url(../img/hassan.jpg);
+  background-image: url(../img/Hassan.jpg);
   background-size: cover;
   opacity: 0.6;
   top: 0;
@@ -58,7 +58,7 @@ body::after {
 }
 #hassan_1::after
 {
-  background-image: url(../img/hassan_1.jpg);
+  background-image: url(../img/Hassan_1.jpg);
 
 }
 .slide.active::after
@@ -70,11 +70,11 @@ body::after {
 }
 #hassan_2::after
 {
-  background-image: url(../img/hassan_2.jpg);
+  background-image: url(../img/Hassan_2.jpg);
 }
 #hassan_3::after
 {
-  background-image: url(../img/hassan_3.jpg);
+  background-image: url(../img/Hassan_3.jpg);
 }
 #oudaya::after
 {
